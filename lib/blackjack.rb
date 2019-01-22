@@ -55,7 +55,7 @@ def runner
   hit? total += deal_card : display_card_total
 end  
 end_game
-
+end
 end
 
     
